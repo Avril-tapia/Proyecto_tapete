@@ -1,0 +1,32 @@
+C:\Users\CC2_PC41\Documents\SharpDevelop Projects\Proyecto_tapete\Proyecto_tapete\obj\Debug\Proyecto_tapete.csprojResolveAssemblyReference.cache
+C:\Users\CC2_PC41\Documents\SharpDevelop Projects\Proyecto_tapete\Proyecto_tapete\obj\Debug\Proyecto_tapete.Form1.resources
+C:\Users\CC2_PC41\Documents\SharpDevelop Projects\Proyecto_tapete\Proyecto_tapete\obj\Debug\Proyecto_tapete.MainForm.resources
+C:\Users\CC2_PC41\Documents\SharpDevelop Projects\Proyecto_tapete\Proyecto_tapete\obj\Debug\Proyecto_tapete.csproj.GenerateResource.Cache
+C:\Users\CC2_PC41\Documents\SharpDevelop Projects\Proyecto_tapete\Proyecto_tapete\bin\Debug\Proyecto_tapete.exe
+C:\Users\CC2_PC41\Documents\SharpDevelop Projects\Proyecto_tapete\Proyecto_tapete\bin\Debug\Proyecto_tapete.pdb
+C:\Users\CC2_PC41\Documents\SharpDevelop Projects\Proyecto_tapete\Proyecto_tapete\obj\Debug\Proyecto_tapete.exe
+C:\Users\CC2_PC41\Documents\SharpDevelop Projects\Proyecto_tapete\Proyecto_tapete\obj\Debug\Proyecto_tapete.pdb
+C:\Users\tapia\OneDrive\Documentos\Proyecto_tapete\Proyecto_tapete\bin\Debug\Proyecto_tapete.exe
+C:\Users\tapia\OneDrive\Documentos\Proyecto_tapete\Proyecto_tapete\bin\Debug\Proyecto_tapete.pdb
+C:\Users\tapia\OneDrive\Documentos\Proyecto_tapete\Proyecto_tapete\obj\Debug\Proyecto_tapete.csprojResolveAssemblyReference.cache
+C:\Users\tapia\OneDrive\Documentos\Proyecto_tapete\Proyecto_tapete\obj\Debug\Proyecto_tapete.Form1.resources
+C:\Users\tapia\OneDrive\Documentos\Proyecto_tapete\Proyecto_tapete\obj\Debug\Proyecto_tapete.MainForm.resources
+C:\Users\tapia\OneDrive\Documentos\Proyecto_tapete\Proyecto_tapete\obj\Debug\Proyecto_tapete.csproj.GenerateResource.Cache
+C:\Users\tapia\OneDrive\Documentos\Proyecto_tapete\Proyecto_tapete\obj\Debug\Proyecto_tapete.exe
+C:\Users\tapia\OneDrive\Documentos\Proyecto_tapete\Proyecto_tapete\obj\Debug\Proyecto_tapete.pdb
+C:\Users\CC2_PC41\Documents\Proyecto_tapete\Proyecto_tapete\bin\Debug\Proyecto_tapete.exe
+C:\Users\CC2_PC41\Documents\Proyecto_tapete\Proyecto_tapete\bin\Debug\Proyecto_tapete.pdb
+C:\Users\CC2_PC41\Documents\Proyecto_tapete\Proyecto_tapete\obj\Debug\Proyecto_tapete.csprojResolveAssemblyReference.cache
+C:\Users\CC2_PC41\Documents\Proyecto_tapete\Proyecto_tapete\obj\Debug\Proyecto_tapete.Form1.resources
+C:\Users\CC2_PC41\Documents\Proyecto_tapete\Proyecto_tapete\obj\Debug\Proyecto_tapete.MainForm.resources
+C:\Users\CC2_PC41\Documents\Proyecto_tapete\Proyecto_tapete\obj\Debug\Proyecto_tapete.csproj.GenerateResource.Cache
+C:\Users\CC2_PC41\Documents\Proyecto_tapete\Proyecto_tapete\obj\Debug\Proyecto_tapete.exe
+C:\Users\CC2_PC41\Documents\Proyecto_tapete\Proyecto_tapete\obj\Debug\Proyecto_tapete.pdb
+C:\Users\CC1_PC35\Documents\Proyecto_tapete\Proyecto_tapete\bin\Debug\Proyecto_tapete.exe
+C:\Users\CC1_PC35\Documents\Proyecto_tapete\Proyecto_tapete\bin\Debug\Proyecto_tapete.pdb
+C:\Users\CC1_PC35\Documents\Proyecto_tapete\Proyecto_tapete\obj\Debug\Proyecto_tapete.csprojResolveAssemblyReference.cache
+C:\Users\CC1_PC35\Documents\Proyecto_tapete\Proyecto_tapete\obj\Debug\Proyecto_tapete.Form1.resources
+C:\Users\CC1_PC35\Documents\Proyecto_tapete\Proyecto_tapete\obj\Debug\Proyecto_tapete.MainForm.resources
+C:\Users\CC1_PC35\Documents\Proyecto_tapete\Proyecto_tapete\obj\Debug\Proyecto_tapete.csproj.GenerateResource.Cache
+C:\Users\CC1_PC35\Documents\Proyecto_tapete\Proyecto_tapete\obj\Debug\Proyecto_tapete.exe
+C:\Users\CC1_PC35\Documents\Proyecto_tapete\Proyecto_tapete\obj\Debug\Proyecto_tapete.pdb
